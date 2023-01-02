@@ -18,6 +18,6 @@ int main()
     }
 
     factor2 = num / factor1;
-    printf("%lld = %ld * %ld\n", num, factor2, factor1);
+    printf(%lld = %ld factors factors.c README.md rsa tests wfactors.py %ldn, num, factor2, factor1);
     return (0);
 }
